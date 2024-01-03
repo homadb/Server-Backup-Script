@@ -8,12 +8,12 @@ Automate server backups with this simple Bash script.
    ```bash
    git clone https://github.com/homadb/server-backup-script.git
 
-2. **Configure the script:
+2. **Configure the script:**
 
 Set the backup_dir variable to the path where backups should be stored.
 Set the source_dir variable to the path of the files or directories you want to back up.
 
-3. **Run the script manually or set up a cron job for automated backups:
+3. **Run the script manually or set up a cron job for automated backups:**
    ```bash
    bash server_backup_script.sh
 
